@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: cups
+Version: 0.1.0
+Summary: A dummy implementation of the cups module for testing purposes.
+Home-page: https://github.com/yourusername/dummy_cups
+Author: jamshid k
+Author-email: your_email@example.com
